@@ -31,7 +31,7 @@ The build script does the following
 
 ## Useful Links
 
-# [Solidity Documentation](https://solidity.readthedocs.io/en/develop/)
-# [Smart Contract Concept Explained](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-2/)
-# [CryptoZombies - Interactive Course](https://cryptozombies.io/course/)
-# [REMIX - Online Solidity IDE](https://remix.ethereum.org/)
+- [Solidity Documentation](https://solidity.readthedocs.io/en/develop/)
+- [Smart Contract Concept Explained](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-2/)
+- [CryptoZombies - Interactive Course](https://cryptozombies.io/course/)
+- [REMIX - Online Solidity IDE](https://remix.ethereum.org/)
