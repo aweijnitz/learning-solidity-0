@@ -1,7 +1,7 @@
 # Basics of Solidity Development
 
 This is a small Solidity project, used for exploring and learning smart contract
-development on for the Ethereum blockchain.
+development for the Ethereum blockchain.
 
 ## Installing the Solidity compiler and solhint linter
 
