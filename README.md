@@ -13,7 +13,7 @@ development for the Ethereum blockchain.
 ### Installation details
 See [Solidity Documentation](https://solidity.readthedocs.io/en/develop/installing-solidity.html)
 
-## Building
+## Building/compiling Solidity Contracts
 
 There is a convenience script in the project root folder which builds the contracts.
 
